@@ -1,4 +1,4 @@
-# SKILLS/HABILIDADES
+# ✨SKILLS/HABILIDADES✨
 
 DevOps | Java | Postgresql | Python | Metodologias Ágeis(Agiles Methodologies) | JavaScript | HTML | CSS
 
