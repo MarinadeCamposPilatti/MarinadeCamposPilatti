@@ -1,6 +1,6 @@
 # ✨SKILLS/HABILIDADES✨
 
-### Java | Kotlin |
+### Java | Kotlin
 
 <!--
 **MarinadeCamposPilatti/MarinadeCamposPilatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
